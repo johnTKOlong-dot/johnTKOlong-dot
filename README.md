@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Hi, I’m Tokiomi 👋
+## You can call me John/Tokiomi👋
 
 Creative developer focused on game development, homelab projects, and building out personal servers.
 I enjoy creating interactive experiences and experimenting with systems behind the scenes.
