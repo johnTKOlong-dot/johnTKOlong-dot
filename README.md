@@ -11,3 +11,5 @@ I enjoy creating interactive experiences and experimenting with systems behind t
 
 🎧 Into music, anime, and storytelling
 🚀 Working toward unique digital experiences
+
+💻 Using VS Code & currently learning Python
